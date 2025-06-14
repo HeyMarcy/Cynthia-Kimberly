@@ -55,7 +55,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
               by Steve Parke
             </p> */}
             <p className='mt-2 max-w-[40ch] text-sm tracking-wide text-white/75 sm:max-w-[32ch]'>
-              Curated for David Lobato
+              Curated for Cynthia Kimberly
             </p>
           </div>
           {images.map(({ id, public_id, format, blurDataUrl }) => (
